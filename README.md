@@ -57,4 +57,5 @@ python week1.py
 ```
 Output file 
 
-<img width="1338" height="522" alt="Screenshot from 2025-11-02 18-45-48" src="https://github.com/user-attachments/assets/6bdd6614-6132-4d4b-ad7f-c21982c1f86b" />
+<img width="1362" height="571" alt="Screenshot from 2025-11-02 18-29-30" src="https://github.com/user-attachments/assets/7e7e27a5-d628-492a-bb9e-d91492b81197" />
+
