@@ -55,3 +55,6 @@ This class represents a manager, inheriting from `Employee`.
 ```bash
 python week1.py
 ```
+Output file 
+
+<img width="1338" height="522" alt="Screenshot from 2025-11-02 18-45-48" src="https://github.com/user-attachments/assets/6bdd6614-6132-4d4b-ad7f-c21982c1f86b" />
