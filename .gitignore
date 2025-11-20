@@ -1,0 +1,46 @@
+# pyenv                                                                                                                 │
+ │     81 .python-version                                                                                                         │
+ │     82                                                                                                                         │
+ │     83 # pipenv                                                                                                                │
+ │     84 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.                         │
+ │     85 #   However, in case of collaboration, if have platform-specific dependencies, which can result in locking conflicts.   │
+ │     86 #   Please discuss with your team whether to ignore this file or not.                                                   │
+ │     87 #Pipfile.lock                                                                                                           │
+ │     88                                                                                                                         │
+ │     89 # PEP 582; used by PDM, PEP 582 compatible tools                                                                        │
+ │     90 __pypackages__/                                                                                                         │
+ │     91                                                                                                                         │
+ │     92 # Celery stuff                                                                                                          │
+ │     93 celerybeat-schedule                                                                                                     │
+ │     94 celerybeat.pid                                                                                                          │
+ │     95                                                                                                                         │
+ │     96 # SageMath parsed files                                                                                                 │
+ │     97 *.sage.py                                                                                                               │
+ │     98                                                                                                                         │
+ │     99 # Environments                                                                                                          │
+ │    100 .env                                                                                                                    │
+ │    101 .venv                                                                                                                   │
+ │    102 env/                                                                                                                    │
+ │    103 venv/                                                                                                                   │
+ │    104 ENV/                                                                                                                    │
+ │    105 env.bak/                                                                                                                │
+ │    106 venv.bak/                                                                                                               │
+ │    107                                                                                                                         │
+ │    108 # Spyder project settings                                                                                               │
+ │    109 .spyderproject                                                                                                          │
+ │    110 .spyderworkspace                                                                                                        │
+ │    111                                                                                                                         │
+ │    112 # Rope project settings                                                                                                 │
+ │    113 .ropeproject                                                                                                            │
+ │    114                                                                                                                         │
+ │    115 # mkdocs documentation                                                                                                  │
+ │    116 /site                                                                                                                   │
+ │    117                                                                                                                         │
+ │    118 # mypy                                                                                                                  │
+ │    119 .mypy_cache/                                                                                                            │
+ │    120 .dmypy.json                                                                                                             │
+ │    121 dmypy.json                                                                                                              │
+ │    122                                                                                                                         │
+ │    123 # Pyre type checker                                                                                                     │
+ │    124 .pyre/                                                                                                                  │
+ ╰──────────────────

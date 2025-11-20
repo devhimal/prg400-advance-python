@@ -1,0 +1,13 @@
+{% extends "base.html" %}   
+
+{% block title %} Home Page {%endblock%}
+
+{% block content%}
+<h1>Welcome to My Portfolio</h1>
+<p>Details of the projects list</p>
+<ul>
+      {% for project in projects %}
+      <li>{{project}}</li>
+      {% endfor %}
+    </ul>
+  {% endblock %}
