@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: multi_c_extensions
+Version: 1.0
+Summary: Combined C and C++ extension modules for Python
+Dynamic: summary

@@ -1,0 +1,10 @@
+arraymodule.c
+concat.cpp
+pyproject.toml
+reversestring.c
+setup.py
+square.c
+multi_c_extensions.egg-info/PKG-INFO
+multi_c_extensions.egg-info/SOURCES.txt
+multi_c_extensions.egg-info/dependency_links.txt
+multi_c_extensions.egg-info/top_level.txt
